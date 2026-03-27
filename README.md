@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vadadaharish
-- 👀 I’m interested in ... Data / Machine Learning
-- 🌱 I’m currently learning ... Data 
+- 👀 I’m interested in ...Healthcare AI, Data & Machine Learning
+- 🌱 I’m currently solving ... Hairy Healthcare problems 
 - 💞️ I’m looking to collaborate on ... Everything Data
 - 📫 How to reach me ... https://about.me/harishvadada
 
